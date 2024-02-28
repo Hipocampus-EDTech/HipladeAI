@@ -10,5 +10,5 @@ This repository contains some of Hiplade AI algorithms, which include:
 
 # Install
 
-    pip install git+https://github.com/Hipocampus-EDTech/Hiplade-AI
+    pip install git+https://github.com/Hipocampus-EDTech/HipladeAI
 
